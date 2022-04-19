@@ -1,10 +1,23 @@
 ### Hi there!  👋
 
+I'm Rajeev Bhardwaj from India, currently i am Pursuing B.Tech in Computer Science and Engineering from National Institute of Technology, Silchar.
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-I'm Rajeev Bhardwaj from India, currently i am Pursuing B.Tech in Computer Science and Engineering from National Institute of Technology, Silchar.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rajeev-bhardwaj-2b56311a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100040434785124">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://twitter.com/RAJEEVB09535117">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 - 😄 Pronouns: ... He/Him
 - 🔭 I’m currently working on ... Development Projects
