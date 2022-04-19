@@ -11,5 +11,5 @@ I'm Rajeev Bhardwaj from India, currently i am Pursuing B.Tech in Computer Scien
 - 🤔 I’m looking for help with ...
 
 - 📫 How to reach me: ... -->
-![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dives17&hide=contribs,prs)
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dives17&hide=contribs,issues)
 
