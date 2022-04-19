@@ -18,7 +18,7 @@ I'm Rajeev Bhardwaj from India, currently i am Pursuing B.Tech in Computer Scien
 <a href="https://github.com/Dives17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dives17&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Dives17/convoychat">
+<!-- <a href="https://github.com/Dives17/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dives17&repo=convoychat" />
-</a>
+</a> -->
 
