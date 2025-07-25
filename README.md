@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-I'm Rajeev Bhardwaj from India, currently i am Pursuing B.Tech in Computer Science and Engineering from National Institute of Technology, Silchar.
+I'm Rajeev Bhardwaj from India, I have done my B.Tech in Computer Science and Engineering from National Institute of Technology, Silchar.
 
 
 
